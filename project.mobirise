@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "F5 photostudio",
-    "currentPage": "index.html",
+    "currentPage": "Price.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 31,
     "versionPublish": "4.3.0",
@@ -533,6 +533,15 @@
             },
             ".mbr-section-subtitle": {
               "letter-spacing": ".2rem"
+            },
+            "H1": {
+              "color": "#465052"
+            },
+            "H3": {
+              "color": "#465052"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#465052"
             }
           },
           "_name": "header10",
